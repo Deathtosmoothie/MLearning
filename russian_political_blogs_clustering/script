@@ -1,0 +1,15 @@
+python
+import feedvector_train
+feedvector_train.mainfun()
+
+import cluster_train
+blognames,words,data=cluster_train.readfile('blogdata_train.txt')
+clust=cluster_train.hcluster(data)
+
+
+cluster_train.printclust(clust,labels=blognames)
+
+cluster_train.drawdendrogram(clust,blognames,jpeg='dendrogram.jpg')
+
+
+
