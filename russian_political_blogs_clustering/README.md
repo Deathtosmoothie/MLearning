@@ -5,9 +5,12 @@ All code was written on Python3 with libraries for parsing and working with imag
 ### Getting started
 First, we need to install required libraries.
 
-Libraries for parsing:
-
 *Beautiful Soup*
 ```
 $ apt-get install python3-bs4
+```
+*PIL*
+
+```
+$ pip install Pillow
 ```
