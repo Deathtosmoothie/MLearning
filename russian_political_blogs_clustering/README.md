@@ -22,11 +22,11 @@ $ pip install transliterate
 ### Clusterisation
 Launch Python console
 ```
-python
+$ python
 ```
 Run the script which parses words from RSS of blogs and counts them. List of blogs nested in fl_supertrain.txt file.
 
 ```
-import feedvector_train
-feedvector_train.mainfun()
+>>> import feedvector_train
+>>> feedvector_train.mainfun()
 ```
