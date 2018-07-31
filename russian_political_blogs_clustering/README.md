@@ -14,3 +14,19 @@ $ apt-get install python3-bs4
 ```
 $ pip install Pillow
 ```
+*Transliterate*
+
+```
+$ pip install transliterate
+```
+### Clusterisation
+Launch Python console
+```
+python
+```
+Run the script which parses words from RSS of blogs and counts them. List of blogs nested in fl_supertrain.txt file.
+
+```
+import feedvector_train
+feedvector_train.mainfun()
+```
