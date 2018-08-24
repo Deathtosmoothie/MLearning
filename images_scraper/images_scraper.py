@@ -13,7 +13,7 @@ class ImageParser:
 
     def scroller(self):
         # Function for scrolling Google page to load more images
-        
+
         # Time for pause while page is loading
         scroll_pause_time = 0.5
 
