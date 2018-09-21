@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>dave-grohl-glastonbury.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/dave-grohl-glastonbury.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2462</width>
+		<height>1641</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>14</ymin>
+			<xmax>1544</xmax>
+			<ymax>1641</ymax>
+		</bndbox>
+	</object>
+</annotation>

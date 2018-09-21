@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>dave-grohl-and-daughter-harper.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/dave-grohl-and-daughter-harper.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>37</ymin>
+			<xmax>815</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

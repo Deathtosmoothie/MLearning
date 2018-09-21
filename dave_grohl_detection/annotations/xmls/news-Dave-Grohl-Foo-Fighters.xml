@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>news-Dave-Grohl-Foo-Fighters.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/news-Dave-Grohl-Foo-Fighters.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>152</ymin>
+			<xmax>596</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

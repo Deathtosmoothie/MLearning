@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>gq-cover-june-19april18_b.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/gq-cover-june-19april18_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>35</ymin>
+			<xmax>311</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

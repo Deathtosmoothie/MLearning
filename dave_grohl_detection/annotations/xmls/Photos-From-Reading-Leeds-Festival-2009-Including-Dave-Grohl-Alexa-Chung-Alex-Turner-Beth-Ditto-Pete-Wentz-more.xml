@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>Photos-From-Reading-Leeds-Festival-2009-Including-Dave-Grohl-Alexa-Chung-Alex-Turner-Beth-Ditto-Pete-Wentz-more.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/Photos-From-Reading-Leeds-Festival-2009-Including-Dave-Grohl-Alexa-Chung-Alex-Turner-Beth-Ditto-Pete-Wentz-more.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>277</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

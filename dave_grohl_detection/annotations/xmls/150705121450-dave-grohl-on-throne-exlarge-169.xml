@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>150705121450-dave-grohl-on-throne-exlarge-169.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/150705121450-dave-grohl-on-throne-exlarge-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>20</ymin>
+			<xmax>501</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

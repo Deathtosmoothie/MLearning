@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>cct-acoustic-0517-07.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/cct-acoustic-0517-07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>999</xmin>
+			<ymin>444</ymin>
+			<xmax>3973</xmax>
+			<ymax>3168</ymax>
+		</bndbox>
+	</object>
+</annotation>

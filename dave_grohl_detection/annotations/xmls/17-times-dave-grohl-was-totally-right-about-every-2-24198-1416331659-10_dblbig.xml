@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>17-times-dave-grohl-was-totally-right-about-every-2-24198-1416331659-10_dblbig.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/17-times-dave-grohl-was-totally-right-about-every-2-24198-1416331659-10_dblbig.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>1</ymin>
+			<xmax>541</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

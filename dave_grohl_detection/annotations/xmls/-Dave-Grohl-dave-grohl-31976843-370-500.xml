@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>-Dave-Grohl-dave-grohl-31976843-370-500.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/-Dave-Grohl-dave-grohl-31976843-370-500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>366</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

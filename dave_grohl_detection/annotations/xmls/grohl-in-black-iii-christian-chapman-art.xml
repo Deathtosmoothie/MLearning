@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>grohl-in-black-iii-christian-chapman-art.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/grohl-in-black-iii-christian-chapman-art.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>65</ymin>
+			<xmax>655</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>sonichighway_davegrohl_1200_article_story_large.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/sonichighway_davegrohl_1200_article_story_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>3</ymin>
+			<xmax>720</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

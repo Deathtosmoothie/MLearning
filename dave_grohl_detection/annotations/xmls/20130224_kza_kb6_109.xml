@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>20130224_kza_kb6_109.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/20130224_kza_kb6_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2641</width>
+		<height>1444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>75</ymin>
+			<xmax>2069</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>

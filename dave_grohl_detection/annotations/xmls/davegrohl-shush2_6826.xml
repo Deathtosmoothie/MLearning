@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>davegrohl-shush2_6826.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/davegrohl-shush2_6826.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>2</ymin>
+			<xmax>318</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

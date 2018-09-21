@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>110110_DaveGrohl_daughters_spl206092_003.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/110110_DaveGrohl_daughters_spl206092_003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>24</ymin>
+			<xmax>436</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

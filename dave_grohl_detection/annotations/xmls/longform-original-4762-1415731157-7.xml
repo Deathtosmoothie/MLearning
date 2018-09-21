@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>longform-original-4762-1415731157-7.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/longform-original-4762-1415731157-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>20</ymin>
+			<xmax>740</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>Adam-Levine-Dave-Grohl-John-Legend-met-up-other-music.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/Adam-Levine-Dave-Grohl-John-Legend-met-up-other-music.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>764</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>88</ymin>
+			<xmax>797</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>

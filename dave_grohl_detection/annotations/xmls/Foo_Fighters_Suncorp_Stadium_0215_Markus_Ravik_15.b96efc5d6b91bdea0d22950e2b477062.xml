@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>Foo_Fighters_Suncorp_Stadium_0215_Markus_Ravik_15.b96efc5d6b91bdea0d22950e2b477062.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/Foo_Fighters_Suncorp_Stadium_0215_Markus_Ravik_15.b96efc5d6b91bdea0d22950e2b477062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>4</ymin>
+			<xmax>487</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>musician-dave-grohl-foo-fighters-performs-2007-kroq-la-invasion-home-jjx839.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/musician-dave-grohl-foo-fighters-performs-2007-kroq-la-invasion-home-jjx839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>345</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>7</ymin>
+			<xmax>326</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

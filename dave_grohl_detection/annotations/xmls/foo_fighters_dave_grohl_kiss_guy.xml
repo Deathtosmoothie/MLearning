@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>foo_fighters_dave_grohl_kiss_guy.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/foo_fighters_dave_grohl_kiss_guy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>717</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>77</ymin>
+			<xmax>381</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

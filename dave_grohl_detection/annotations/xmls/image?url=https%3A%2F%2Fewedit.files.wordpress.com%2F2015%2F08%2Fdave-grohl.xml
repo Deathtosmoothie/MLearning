@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2015%2F08%2Fdave-grohl.jpg</filename>
+	<path>/home/r/Рабочий_стол/Python/dave_grohl_detection/images/image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2015%2F08%2Fdave-grohl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>243</ymin>
+			<xmax>1175</xmax>
+			<ymax>1276</ymax>
+		</bndbox>
+	</object>
+</annotation>
