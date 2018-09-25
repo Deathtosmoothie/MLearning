@@ -30,6 +30,7 @@ from object_detection.core import preprocessor
 from object_detection.core import standard_fields as fields
 from object_detection.utils import ops as util_ops
 from object_detection.utils import variables_helper
+
 from deployment import model_deploy
 
 slim = tf.contrib.slim
@@ -297,6 +298,7 @@ def train(create_tensor_dict_fn, create_model_fn, train_config, master, task,
       global_summaries.add(tf.summary.scalar(loss_tensor.op.name, loss_tensor))
     global_summaries.add(
         tf.summary.scalar('TotalLoss', tf.losses.get_total_loss()))
+    # global_summaries.add(tf.summary.scalar('accuracy',accuracy))
 
     # Add the summaries from the first clone. These contain the summaries
     # created by model_fn and either optimize_clones() or _gather_clone_loss().
