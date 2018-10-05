@@ -158,6 +158,7 @@ def main(_):
                 FLAGS.num_clones, worker_replicas, FLAGS.clone_on_cpu, ps_tasks,
                 worker_job_name, is_chief, FLAGS.train_dir)
 
+  print('test')
 
 if __name__ == '__main__':
   tf.app.run()

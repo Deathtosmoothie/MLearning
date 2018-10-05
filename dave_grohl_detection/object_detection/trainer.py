@@ -298,7 +298,7 @@ def train(create_tensor_dict_fn, create_model_fn, train_config, master, task,
       global_summaries.add(tf.summary.scalar(loss_tensor.op.name, loss_tensor))
     global_summaries.add(
         tf.summary.scalar('TotalLoss', tf.losses.get_total_loss()))
-    # global_summaries.add(tf.summary.scalar('accuracy',accuracy))
+    global_summaries.add(tf.summary.scalar('accuracy',tf.reduce_mean(tf.get_collection('accuracy'))))
 
     # Add the summaries from the first clone. These contain the summaries
     # created by model_fn and either optimize_clones() or _gather_clone_loss().

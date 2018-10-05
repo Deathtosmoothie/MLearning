@@ -16,8 +16,8 @@ from PIL import Image
 from utils import label_map_util
 from utils import visualization_utils as vis_util
 
-if tf.__version__ != '1.4.0':
-  raise ImportError('Please upgrade your tensorflow installation to v1.4.0!')
+# if tf.__version__ != '1.4.0':
+#   raise ImportError('Please upgrade your tensorflow installation to v1.4.0!')
 
 
 parser = argparse.ArgumentParser()
