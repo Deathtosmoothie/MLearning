@@ -1,5 +1,0 @@
-pillow
-lxml
-jupyter
-matplotlib
-opencv-python
