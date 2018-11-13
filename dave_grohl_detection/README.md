@@ -14,7 +14,7 @@ Technology used: Google Colaboratory, tensorflow, Google Object Detection API.
 
 In the end you will get the frozen graph, which you can test by your own images from test_images folder.
 
-![Alt Text](https://github.com/Deathtosmoothie/MLearning/tree/master/dave_grohl_detection/davegrohl.gif)
+![Alt Text](https://github.com/Deathtosmoothie/MLearning/dave_grohl_detection/davegrohl.gif)
 
 
 
